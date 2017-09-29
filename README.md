@@ -1,6 +1,6 @@
 # CV
-Name 
-Street Address 
+## Name 
+## Street Address 
 City, State, Zip Code 
 Telephone:  Type telephone number here 
 Email:  Type email address here 
