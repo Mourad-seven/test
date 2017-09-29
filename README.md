@@ -5,9 +5,9 @@
 Telephone:  ***0485/200298***
 Email:  ***mourad.elbouaananii@gmail.com***
 ______________________________________________________________________________ 
-Objective:
+### Objective:
 Type objective here 
-Experience:
+### Experience:
 Type Dates 
 Company name
 , City, State 
@@ -38,7 +38,7 @@ Type job description here
 Type job description here 
 •
 Type job description here 
-Education: 
+### Education: 
 Type Dates 
 University Name
 , City, State 
@@ -47,6 +47,8 @@ Type Degree
 Type honours, clubs or committees involved with 
 •
 Type honours, clubs or committees involved with 
-Skills: 
+### Skills: 
 •
 List special skills 
+
+### Hobbys
