@@ -1,9 +1,8 @@
 # CV
-## Name 
-## Street Address 
-City, State, Zip Code 
-Telephone:  Type telephone number here 
-Email:  Type email address here 
+### Mourad El Bouaananii
+### Avenue du Roi Albert 26       Bruxelles, Belgique, 1120
+Telephone:  0485200298
+Email:  mourad.elbouaananii@gmail.com
 ______________________________________________________________________________ 
 Objective:
 Type objective here 
