@@ -1,8 +1,9 @@
 # CV
-### Mourad El Bouaananii
-### Avenue du Roi Albert 26       Bruxelles, Belgique, 1120
-Telephone:  0485200298
-Email:  mourad.elbouaananii@gmail.com
+### **Mourad El Bouaananii**
+### Avenue du Roi Albert, 26      
+### Bruxelles, Belgique, 1120
+Telephone:  ***0485/200298***
+Email:  ***mourad.elbouaananii@gmail.com***
 ______________________________________________________________________________ 
 Objective:
 Type objective here 
